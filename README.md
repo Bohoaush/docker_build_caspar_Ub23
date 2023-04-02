@@ -8,4 +8,5 @@ You need to have docker installed on your device (https://docs.docker.com/engine
 4. Open another terminal window (Ctrl+Shift+N)
 5. `docker cp caspar-ub2204:/opt/build/server/staging/ .`
 6. You now have executable CasparCG in staging subfolder
-7. It might me necessary to install libtbb `sudo apt install libtbb12`
+7. You can now exit the docker container in the original terminal window (`exit`)
+8. It might me necessary to install libtbb (`sudo apt install libtbb12`)
