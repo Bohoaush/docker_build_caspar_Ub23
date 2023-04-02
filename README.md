@@ -1,4 +1,4 @@
-# docker_build_caspar_Ub23
+# docker_build_caspar_Ub22
 Dockerfile to compile CasparCG server for Ubuntu 22.04
 ### How to use
 You need to have docker installed on your device (https://docs.docker.com/engine/install/ubuntu/)
